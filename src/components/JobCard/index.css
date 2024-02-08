@@ -1,0 +1,79 @@
+.job-card-container {
+  color: #ffffff;
+  font-family: 'Roboto';
+  background-color: #272727;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  padding: 5%;
+  border-radius: 3%;
+}
+.logo-title-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.job-details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.location-employment-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+}
+.rating-container {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.company-logo {
+  width: 60px;
+  height: 60px;
+  margin-right: 2%;
+}
+.job-title {
+  font-size: 20px;
+  margin: 0px;
+}
+.rating {
+  margin: 0px;
+  margin-top: 5px;
+  margin-left: 8px;
+  font-weight: 500;
+  font-size: 17px;
+}
+.details {
+  font-size: 14px;
+  font-weight: 500;
+  margin-left: 5px;
+  color: #cbd5e1;
+}
+.star-icon {
+  color: #fbbf24;
+  font-size: 20px;
+}
+.details-item {
+  display: flex;
+  align-items: center;
+}
+.package {
+  font-weight: 500;
+}
+.description-heading {
+  font-size: 17px;
+  font-weight: 500;
+  margin: 3% 0%;
+}
+.description {
+  font-size: 15px;
+  color: #f1f5f9;
+  font-size: 400;
+  line-height: 1.8;
+  margin-bottom: 0px;
+}
+
+.link-item {
+  text-decoration: none;
+}

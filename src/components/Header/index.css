@@ -9,9 +9,9 @@
 .nav-menu {
   list-style-type: none;
   display: flex;
-  justify-content: center;
   align-items: center;
   padding: 0px;
+  width: 49%;
 }
 .nav-item {
   color: #f8fafc;
@@ -33,5 +33,8 @@
   font-size: 13 px;
 }
 .nav-website-logo {
-  width: 11%;
+  width: 75%;
+}
+.home-logout-button-container {
+  margin-left: 62%;
 }

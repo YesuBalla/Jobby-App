@@ -1,0 +1,28 @@
+.similar-job-card-container {
+  background-color: #202020;
+  width: 30%;
+  padding: 3%;
+  border-radius: 15px;
+}
+.location-employment-container-3 {
+  display: flex;
+  align-items: center;
+}
+.description-heading-3 {
+  font-weight: 400;
+  font-size: 23px;
+}
+.description-3 {
+  color: #cbd5e1;
+  line-height: 1.6;
+  width: 95%;
+  font-size: 17px;
+}
+.details-item-3 {
+  display: flex;
+  align-items: center;
+  margin-right: 10%;
+}
+.title-rating-container-3 {
+  margin-left: 11px;
+}
